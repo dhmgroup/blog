@@ -1,24 +1,9 @@
-# README
+# DHM Group Blog
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This blog is developed with the friendly RoR framework. It serves as our initial step to RoR as of v7.0.1 onwards from February, 5th, 2022.
 
-Things you may want to cover:
+## Features
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- Commenting
+- Analytics
+- Social Posting
